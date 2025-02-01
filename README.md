@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunjith5452</h1>
+<h1 align="center">Hi 👋, I'm Arunjith KS</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunjith5452&label=Profile%20views&color=0e75b6&style=flat" alt="arunjith5452" /> </p>
