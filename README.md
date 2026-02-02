@@ -28,17 +28,21 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 
 ## 📈 GitHub Performance
 
-![Arunjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunjith5452&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Arunjith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunjith5452&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunjith5452&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Main Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunjith5452&theme=radical" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
+</div>
 
 ---
 
@@ -51,5 +55,4 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 ---
 <p align="center">
 <i>"The best way to predict the future is to build it."</i> <br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
