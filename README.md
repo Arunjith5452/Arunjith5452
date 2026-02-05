@@ -18,14 +18,12 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 ![Next.js](https://img.shields.io/badge/next.js-black.svg?style=plastic&logo=next.js&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Arunjith5452&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy-winning.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
