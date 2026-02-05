@@ -25,7 +25,7 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
