@@ -17,14 +17,20 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black.svg?style=plastic&logo=next.js&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arunjith5452&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /&gt;
+  &lt;br/&gt;
+  &lt;img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arunjith5452&theme=dark&hide_border=false" alt="GitHub Streak" /&gt;
+  &lt;br/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunjith5452&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /&gt;
+&lt;/div&gt;
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /&gt;
+&lt;/div&gt;
+
 ---
 
 ## 📩 Let's Connect
@@ -35,4 +41,6 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+&lt;div align="center"&gt;
+  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /&gt;
+&lt;/div&gt;
