@@ -23,7 +23,7 @@ I am a software engineer driven by the philosophy of **"Learning by Doing."** I 
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy-kannan.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arunjith5452&theme=radical&no-frame=false&margin-w=4)
 
 ---
 
